@@ -1,0 +1,24 @@
+.listeProduit{
+    margin: 50px 120px 10px 120px;
+    display: flex;
+    align-items: stretch;
+/* justify-content: center; */
+justify-content: space-evenly;
+   flex-wrap: wrap;
+}
+
+
+.aProduct{
+margin: 10px;
+}
+.order{
+    display: flex;
+}
+.order img{
+    width: 120px;
+    height: 120px;
+}
+div .name{
+text-align: center;
+}
+
